@@ -1,8 +1,35 @@
-p{
-    color: aquamarine;
+body {
+    background-image: url("https://images.unsplash.com/photo-1746647695879-bfab32f59f34?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    height: 1700px;
+    background-attachment: fixed;
+    background-position: center;
 }
 
-h1, h2{
+
+p {
+    color: black;
+    background-color: #cfff63;
+    width: 50%;
+    height: 25px;
+    display: inline;
+}
+
+h1, h2 {
     background: aquamarine;
     color: red;
+}
+
+
+span {
+    color: black;
+    background-color: #cfff63;
+    width: 50%;
+    height: 25px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+
 }
