@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/Lesson1/HW/Task1.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="HW Task1 done">
+      <change afterPath="$PROJECT_DIR$/Lesson1/HW/Task2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,7 @@
       <workItem from="1747923498154" duration="411000" />
       <workItem from="1747923927320" duration="140000" />
       <workItem from="1747984913199" duration="18281000" />
-      <workItem from="1748081637995" duration="3061000" />
+      <workItem from="1748081637995" duration="4377000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -178,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748083053358</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HW Task1 done">
+      <option name="closed" value="true" />
+      <created>1748085120664</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748085120664</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +211,7 @@
     <MESSAGE value="making changes background" />
     <MESSAGE value="Rename files 1_1 and 1_2" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="HW Task1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Task1 done" />
   </component>
 </project>
