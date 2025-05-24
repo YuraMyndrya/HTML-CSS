@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Create CSS file with style and add to html">
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="making changes background">
+      <change afterPath="$PROJECT_DIR$/Lesson1/Lesson1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson1/style1.2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Lesson1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/Lesson1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/Style1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,7 +96,7 @@
       <workItem from="1747923236666" duration="118000" />
       <workItem from="1747923498154" duration="411000" />
       <workItem from="1747923927320" duration="140000" />
-      <workItem from="1747984913199" duration="11566000" />
+      <workItem from="1747984913199" duration="18281000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747991311267</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="making changes background">
+      <option name="closed" value="true" />
+      <created>1748006281552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748006281552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +168,7 @@
     <MESSAGE value="Change HTML file 1.1" />
     <MESSAGE value="Style in head or body HTML file 1.1" />
     <MESSAGE value="Create CSS file with style and add to html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create CSS file with style and add to html" />
+    <MESSAGE value="making changes background" />
+    <option name="LAST_COMMIT_MESSAGE" value="making changes background" />
   </component>
 </project>
