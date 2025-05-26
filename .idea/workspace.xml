@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Task5.3 finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" afterDir="false" />
-    </list>
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Task5.4 Size correction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +101,7 @@
       <workItem from="1748239315753" duration="4384000" />
       <workItem from="1748250339004" duration="1387000" />
       <workItem from="1748264026089" duration="13687000" />
-      <workItem from="1748279255602" duration="409000" />
+      <workItem from="1748279255602" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -266,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748277830350</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Task5.4 Size correction">
+      <option name="closed" value="true" />
+      <created>1748279748596</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748279748596</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +306,7 @@
     <MESSAGE value="Task5.2" />
     <MESSAGE value="Task5.2 rename to index.html" />
     <MESSAGE value="Task5.3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5.3 finished" />
+    <MESSAGE value="Task5.4 Size correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5.4 Size correction" />
   </component>
 </project>
