@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Task5.2 rename to index.html">
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Task5.3 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/HW_1/Task3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/imageTask5/Michael_Keaton_as_Bruce_Wayne_Batman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,9 @@
 }</component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -102,7 +103,8 @@
       <workItem from="1748115110528" duration="685000" />
       <workItem from="1748239315753" duration="4384000" />
       <workItem from="1748250339004" duration="1387000" />
-      <workItem from="1748264026089" duration="13193000" />
+      <workItem from="1748264026089" duration="13687000" />
+      <workItem from="1748279255602" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -256,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748265429129</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task5.3 finished">
+      <option name="closed" value="true" />
+      <created>1748277830350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748277830350</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +300,7 @@
     <MESSAGE value="Task5.1" />
     <MESSAGE value="Task5.2" />
     <MESSAGE value="Task5.2 rename to index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5.2 rename to index.html" />
+    <MESSAGE value="Task5.3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5.3 finished" />
   </component>
 </project>
