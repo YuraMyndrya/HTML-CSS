@@ -1,0 +1,17 @@
+p {
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
+
+span {
+    color: red;
+    font-size: 40px;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: silver;
+    background: black;
+    border: 2px solid gray;
+}
