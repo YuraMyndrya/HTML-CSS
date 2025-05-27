@@ -1,0 +1,27 @@
+
+body {
+    background: green;
+    color: #2d4747;
+    margin: 0;
+    height: 1600px;
+}
+
+p {
+    background-color: deepskyblue;
+    margin: 30px 120px;
+    width: 80%;
+    height: 200px;
+    text-align: center; /*текст по центру відносно горизонтальноі лінії*/
+    align-content: center; /*текст по центру відносно вертикальної лінії*/
+    box-sizing: border-box;
+    font-size: 35px;
+}
+
+#par1 {
+    margin-bottom: 0;
+}
+
+#par2 {
+    margin-top: 0;
+}
+

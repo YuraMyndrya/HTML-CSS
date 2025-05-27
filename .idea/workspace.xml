@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Create html doc 2_2">
-      <change afterPath="$PROJECT_DIR$/HW1/hw1_1/style1_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/hw1_2/style1_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/hw1_3/style1_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/hw1_4/style1_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW1/hw1_5/style1_5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON1/Lesson1_3/Lesson1_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON1/Lesson1_3/Style1_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_1/Style2_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_2/Style2_2.css" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="file structure optimization">
+      <change afterPath="$PROJECT_DIR$/LESSON1/Lesson1_4/Lesson1_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON1/Lesson1_4/Style1_4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/hw1_1/hw1_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/hw1_2/hw1_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/hw1_3/hw1_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/hw1_4/hw1_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/HW_1/Task5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/hw1_5/hw1_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Lesson1_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON1/Lesson1_1/Lesson1_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Lesson1_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON1/Lesson1_2/Lesson1_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Style1_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON1/Lesson1_1/Style1_1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/style1_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON1/Lesson1_2/Style1_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON2/Lesson2_1/Lesson2_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/Lesson2_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON2/Lesson2_2/Lesson2_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +110,7 @@
       <workItem from="1748250339004" duration="1387000" />
       <workItem from="1748264026089" duration="13687000" />
       <workItem from="1748279255602" duration="2668000" />
-      <workItem from="1748326965192" duration="25647000" />
+      <workItem from="1748326965192" duration="27937000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -338,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748343936975</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="file structure optimization">
+      <option name="closed" value="true" />
+      <created>1748358229270</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748358229270</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,6 +367,7 @@
     <MESSAGE value="change all img" />
     <MESSAGE value="Create html doc selectors in CSS" />
     <MESSAGE value="Create html doc 2_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create html doc 2_2" />
+    <MESSAGE value="file structure optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="file structure optimization" />
   </component>
 </project>
