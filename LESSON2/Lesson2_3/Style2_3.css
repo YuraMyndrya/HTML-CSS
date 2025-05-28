@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+.conteiner_flex {
+    height: 100%;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    gap: 20px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.red img {
+    width: 80%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.red > p {
+    font-family: "Kablammo", system-ui;
+}
