@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="workspace commit">
-      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_3/Lesson2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_3/Style2_3.css" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Created less 2_3">
+      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_4/Lesson2_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON2/Lesson2_4/Style2_4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,7 @@
       <workItem from="1748264026089" duration="13687000" />
       <workItem from="1748279255602" duration="2668000" />
       <workItem from="1748326965192" duration="28724000" />
-      <workItem from="1748419088909" duration="3779000" />
+      <workItem from="1748419088909" duration="11438000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -345,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748361198252</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Created less 2_3">
+      <option name="closed" value="true" />
+      <created>1748422991868</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1748422991868</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +395,7 @@
     <MESSAGE value="file structure optimization" />
     <MESSAGE value="create lesson1_4" />
     <MESSAGE value="workspace commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
+    <MESSAGE value="Created less 2_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created less 2_3" />
   </component>
 </project>
