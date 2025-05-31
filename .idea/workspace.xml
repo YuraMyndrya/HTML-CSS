@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create hw2_1.html">
-      <change afterPath="$PROJECT_DIR$/HW2/hw2_2/Style2_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/hw2_2/hw2_2.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create hw2_2 done">
+      <change afterPath="$PROJECT_DIR$/HW2/hw2_3/Style2_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW2/hw2_3/hw2_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/Style2_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/hw2_1/Style2_1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2/hw2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/hw2_1/hw2_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +79,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_2" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_1" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON2\Lesson2_2" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\Lesson2\Lesson2_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -116,7 +114,7 @@
       <workItem from="1748326965192" duration="28724000" />
       <workItem from="1748419088909" duration="21530000" />
       <workItem from="1748498772387" duration="16461000" />
-      <workItem from="1748687448699" duration="2377000" />
+      <workItem from="1748687448699" duration="9445000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -390,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748687795812</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="create hw2_2 done">
+      <option name="closed" value="true" />
+      <created>1748689877528</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1748689877528</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create CSS file with style and add to html" />
     <MESSAGE value="making changes background" />
     <MESSAGE value="Rename files 1_1 and 1_2" />
     <MESSAGE value="workspace" />
@@ -433,6 +438,7 @@
     <MESSAGE value="Created less 2_4" />
     <MESSAGE value="change less 2_4" />
     <MESSAGE value="create hw2_1.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="create hw2_1.html" />
+    <MESSAGE value="create hw2_2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hw2_2 done" />
   </component>
 </project>
