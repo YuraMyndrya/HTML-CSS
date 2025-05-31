@@ -1,0 +1,20 @@
+.boxmain {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inbox {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+}
+
+.inbox:hover {
+    background-color: gray;
+    border-radius: 50%;
+    transition: 1s;
+}
