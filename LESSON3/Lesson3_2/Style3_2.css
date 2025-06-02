@@ -1,0 +1,24 @@
+
+main {
+    background-color: #b3a5a5;
+    width: 40vw;
+    height: 40vw;
+}
+
+.mainbox {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ea2929;
+    width: 25vw;
+    height: 25vw;
+
+}
+
+.inbox1 {
+    background-color: #000000;
+    color: white;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
