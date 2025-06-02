@@ -1,8 +1,10 @@
 
 main {
     background-color: #b3a5a5;
-    width: 40vw;
-    height: 40vw;
+    /*width: 40vw;*/
+    /*height: 40vw;*/
+    width: 900px;
+    height: 900px;
 }
 
 .mainbox {

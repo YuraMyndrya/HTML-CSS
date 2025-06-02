@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create Lesson3_1">
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_2/Lesson3_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_2/Style3_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESSON3/Lesson3_1/Lesson3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON3/Lesson3_1/Lesson3_1.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create Lesson3_2">
+      <change beforePath="$PROJECT_DIR$/LESSON3/Lesson3_2/Style3_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON3/Lesson3_2/Style3_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +113,7 @@
       <workItem from="1748419088909" duration="21530000" />
       <workItem from="1748498772387" duration="16461000" />
       <workItem from="1748687448699" duration="12238000" />
-      <workItem from="1748870224412" duration="5016000" />
+      <workItem from="1748870224412" duration="5118000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -422,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748872698594</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="create Lesson3_2">
+      <option name="closed" value="true" />
+      <created>1748875438151</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1748875438151</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +445,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW Task1 done" />
     <MESSAGE value="HW Task2 done" />
     <MESSAGE value="HW Task3 done" />
     <MESSAGE value="Renamed the folder HW" />
@@ -465,6 +469,7 @@
     <MESSAGE value="create hw2_3 done" />
     <MESSAGE value="create hw2_4 done" />
     <MESSAGE value="create Lesson3_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Lesson3_1" />
+    <MESSAGE value="create Lesson3_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Lesson3_2" />
   </component>
 </project>
