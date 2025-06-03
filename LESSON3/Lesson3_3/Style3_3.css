@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: flex-end;
+}
+
+aside {
+    display: flex;
+    background-color: silver;
+    width: 15vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+div > li {
+    font-size: 22px;
+    list-style-type: square;
+}
+
+ol {
+    color: cornflowerblue;
+
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
