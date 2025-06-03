@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create Lesson3_5">
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_6/Lesson3_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_6/Style3_6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON3/Lesson3_4/Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Blog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +116,7 @@
       <workItem from="1748870224412" duration="5144000" />
       <workItem from="1748932883150" duration="15500000" />
       <workItem from="1748953006301" duration="2497000" />
+      <workItem from="1748974829513" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
