@@ -11,19 +11,13 @@ aside {
     justify-content: center;
 }
 
-div > li {
-    font-size: 22px;
-    list-style-type: square;
-}
-
 ol {
-    color: cornflowerblue;
-
+    color: #313a21;
+    font-size: 22px;
 }
 
 .list {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-
 }
