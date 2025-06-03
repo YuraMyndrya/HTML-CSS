@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="change Lesson3_3">
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/About.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Lesson3_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Service.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/Style3_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_4/contact.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create Lesson3_4">
+      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_5/Lesson3_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON3/Lesson3_5/Style3_5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -84,11 +79,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_2" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_1" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON2\Lesson2_2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -121,7 +116,7 @@
       <workItem from="1748498772387" duration="16461000" />
       <workItem from="1748687448699" duration="12238000" />
       <workItem from="1748870224412" duration="5144000" />
-      <workItem from="1748932883150" duration="11993000" />
+      <workItem from="1748932883150" duration="15357000" />
     </task>
     <task id="LOCAL-00001" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -467,7 +462,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748936079005</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="create Lesson3_4">
+      <option name="closed" value="true" />
+      <created>1748945671988</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1748945671988</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task4 done" />
     <MESSAGE value="Task5 created" />
     <MESSAGE value="Task5.1" />
     <MESSAGE value="Task5.2" />
@@ -510,6 +512,7 @@
     <MESSAGE value="Change&#10; Lesson3_2" />
     <MESSAGE value="Create Lesson3_3" />
     <MESSAGE value="change Lesson3_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="change Lesson3_3" />
+    <MESSAGE value="create Lesson3_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Lesson3_4" />
   </component>
 </project>
