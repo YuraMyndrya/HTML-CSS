@@ -1,0 +1,41 @@
+
+body {
+    font-size: 50px;
+    font-family: "Orbitron", sans-serif;
+    color: white;
+    margin: 0 5%;
+}
+
+header {
+    background-color: #216abb;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 0;
+}
+
+section {
+    background-color: #16457a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 28vw;
+    height: 70vh;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #216abb;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
