@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw3_2 done">
-      <change afterPath="$PROJECT_DIR$/HW3/hw3_3/Style3_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/hw3_3/hw3_3.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw3_3 done">
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Lesson4_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Messivideo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Style4_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/dj_quba_sandra_k.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +60,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON4/Lesson4_1",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON3" />
@@ -120,15 +126,7 @@
       <workItem from="1748953006301" duration="2497000" />
       <workItem from="1748974829513" duration="149000" />
       <workItem from="1749038997937" duration="8810000" />
-      <workItem from="1749107720047" duration="5493000" />
-    </task>
-    <task id="LOCAL-00001" summary="Create HTML file 1.1">
-      <option name="closed" value="true" />
-      <created>1747987797117</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1747987797118</updated>
+      <workItem from="1749107720047" duration="10258000" />
     </task>
     <task id="LOCAL-00002" summary="Create HTML file 1.1">
       <option name="closed" value="true" />
@@ -514,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749108810658</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="hw3_3 done">
+      <option name="closed" value="true" />
+      <created>1749113282621</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1749113282621</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task5.4 Size correction" />
     <MESSAGE value="change all img" />
     <MESSAGE value="Create html doc selectors in CSS" />
     <MESSAGE value="Create html doc 2_2" />
@@ -557,6 +562,7 @@
     <MESSAGE value="change Lesson3_4" />
     <MESSAGE value="hw3_1 done" />
     <MESSAGE value="hw3_2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3_2 done" />
+    <MESSAGE value="hw3_3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3_3 done" />
   </component>
 </project>
