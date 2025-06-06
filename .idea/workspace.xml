@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw3_3 done">
-      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Lesson4_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Messivideo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/Style4_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_1/dj_quba_sandra_k.mp3" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson4_1">
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_2/Lesson4_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_2/Style4_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_3/Lesson4_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_3/Style4_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_3/img/Hero_3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_3/img/chart_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON4/Lesson4_3/img/pose_11.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +72,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON4/Lesson4_1",
+    "last_opened_file_path": "C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON4/Lesson4_3/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,14 +85,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3\img" />
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3\img" />
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_2" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW2\hw2_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -126,15 +131,7 @@
       <workItem from="1748953006301" duration="2497000" />
       <workItem from="1748974829513" duration="149000" />
       <workItem from="1749038997937" duration="8810000" />
-      <workItem from="1749107720047" duration="10258000" />
-    </task>
-    <task id="LOCAL-00002" summary="Create HTML file 1.1">
-      <option name="closed" value="true" />
-      <created>1747988124983</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747988124983</updated>
+      <workItem from="1749107720047" duration="23749000" />
     </task>
     <task id="LOCAL-00003" summary="Change HTML file 1.1">
       <option name="closed" value="true" />
@@ -520,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749113282621</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Lesson4_1">
+      <option name="closed" value="true" />
+      <created>1749130220637</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1749130220637</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change all img" />
     <MESSAGE value="Create html doc selectors in CSS" />
     <MESSAGE value="Create html doc 2_2" />
     <MESSAGE value="file structure optimization" />
@@ -563,6 +567,7 @@
     <MESSAGE value="hw3_1 done" />
     <MESSAGE value="hw3_2 done" />
     <MESSAGE value="hw3_3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3_3 done" />
+    <MESSAGE value="Lesson4_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4_1" />
   </component>
 </project>
