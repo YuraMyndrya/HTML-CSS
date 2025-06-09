@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 4vh;
+    background: #D9D9D9;
+}
+
+/*----------------main-----------*/
+.center {
+    display: flex;
+}
+
+main {
+    width: 60vw;
+    height: 74vh;
+    background: #A4A4A4;
+}
+
+.top {
+    width: 40vw;
+    height: 40vh;
+    background: #7F7A7A;
+}
+
+.bottom {
+    width: 40vw;
+    height: 34vh;
+    background: #615050;
+}
+
+/*-----------footer---------*/
+
+footer {
+    height: 10vh;
+    background: #D9D9D9;
+}
+
+address {
+    height: 12vh;
+    background: #AFA9A9;
+}
+
+
