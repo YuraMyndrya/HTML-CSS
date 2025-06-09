@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson 4_4 started">
-      <change beforePath="$PROJECT_DIR$/LESSON4/Lesson4_4/Lesson4_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON4/Lesson4_4/Lesson4_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESSON4/Lesson4_4/Style4_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON4/Lesson4_4/Style4_4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON4/Lesson4_4/Style4_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON4/Lesson4_4/Style4_4.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,23 +126,7 @@
       <workItem from="1748974829513" duration="149000" />
       <workItem from="1749038997937" duration="8810000" />
       <workItem from="1749107720047" duration="23831000" />
-      <workItem from="1749456283874" duration="4061000" />
-    </task>
-    <task id="LOCAL-00005" summary="Create CSS file with style and add to html">
-      <option name="closed" value="true" />
-      <created>1747991311267</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1747991311267</updated>
-    </task>
-    <task id="LOCAL-00006" summary="making changes background">
-      <option name="closed" value="true" />
-      <created>1748006281552</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1748006281552</updated>
+      <workItem from="1749456283874" duration="5323000" />
     </task>
     <task id="LOCAL-00007" summary="making changes background">
       <option name="closed" value="true" />
@@ -520,7 +504,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749461699599</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Lesson 4_4 started">
+      <option name="closed" value="true" />
+      <created>1749461770579</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461770579</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Lesson 4_4 started">
+      <option name="closed" value="true" />
+      <created>1749461801371</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461801371</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
