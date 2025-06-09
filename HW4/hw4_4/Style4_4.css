@@ -10,24 +10,25 @@ header {
 
 /*------------------main--------------*/
 main {
+    height: 85.6vh;
     display: flex;
 }
 
 .left {
     width: 29vw;
-    height: 85.6vh;
+    height: 100%;
     background: #A4A4A4;
 }
 
 .center {
     width: 30.5vw;
-    height: 85.6vh;
+    height: 100%;
     background: #C1C1C1;
 }
 
 div {
     width: 40.5vw;
-    height: 42.8vh;
+    height: 50%;
 }
 
 .box1 {
