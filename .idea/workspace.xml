@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson 4_4 finished">
-      <change afterPath="$PROJECT_DIR$/HW4/hw4_1/Style4_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW4/hw4_1/hw4_1.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw4_1 done">
+      <change afterPath="$PROJECT_DIR$/HW4/hw4_2/Style4_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/hw4_2/hw4_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,15 +127,7 @@
       <workItem from="1748974829513" duration="149000" />
       <workItem from="1749038997937" duration="8810000" />
       <workItem from="1749107720047" duration="23831000" />
-      <workItem from="1749456283874" duration="7154000" />
-    </task>
-    <task id="LOCAL-00008" summary="making changes background">
-      <option name="closed" value="true" />
-      <created>1748082688228</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1748082688228</updated>
+      <workItem from="1749456283874" duration="11815000" />
     </task>
     <task id="LOCAL-00009" summary="Rename files 1_1 and 1_2">
       <option name="closed" value="true" />
@@ -521,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749463055574</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="hw4_1 done">
+      <option name="closed" value="true" />
+      <created>1749464903188</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1749464903188</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create lesson1_4" />
     <MESSAGE value="workspace commit" />
     <MESSAGE value="Created less 2_3" />
     <MESSAGE value="Created less 2_4" />
@@ -564,6 +563,7 @@
     <MESSAGE value="Lesson 4_2 and 4_3" />
     <MESSAGE value="Lesson 4_4 started" />
     <MESSAGE value="Lesson 4_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4_4 finished" />
+    <MESSAGE value="hw4_1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4_1 done" />
   </component>
 </project>
