@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="workspace update">
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/Lesson5_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/Style5_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_1/favicon/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_2/Lesson5_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON5/Lesson5_2/Style5_2.css" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="create lesson5_1 &amp; 5_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON5/Lesson5_2/Lesson5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON5/Lesson5_2/Lesson5_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON5/Lesson5_2/Style5_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON5/Lesson5_2/Style5_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +130,7 @@
       <workItem from="1749107720047" duration="23831000" />
       <workItem from="1749456283874" duration="11858000" />
       <workItem from="1749474624067" duration="6666000" />
-      <workItem from="1749542168723" duration="5323000" />
-    </task>
-    <task id="LOCAL-00014" summary="Renamed the folder HW">
-      <option name="closed" value="true" />
-      <created>1748090270413</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1748090270413</updated>
+      <workItem from="1749542168723" duration="7385000" />
     </task>
     <task id="LOCAL-00015" summary="Task4 done">
       <option name="closed" value="true" />
@@ -533,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749542222619</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="create lesson5_1 &amp; 5_2">
+      <option name="closed" value="true" />
+      <created>1749548673032</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1749548673032</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create hw2_2 done" />
     <MESSAGE value="create hw2_3 done" />
     <MESSAGE value="create hw2_4 done" />
     <MESSAGE value="create Lesson3_1" />
@@ -576,6 +566,7 @@
     <MESSAGE value="hw 4_4 done" />
     <MESSAGE value="hw4_4(min change) done" />
     <MESSAGE value="workspace update" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace update" />
+    <MESSAGE value="create lesson5_1 &amp; 5_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="create lesson5_1 &amp; 5_2" />
   </component>
 </project>

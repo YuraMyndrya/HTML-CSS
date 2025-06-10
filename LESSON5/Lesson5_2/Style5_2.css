@@ -1,10 +1,72 @@
-.pinkbox {
-    width: 200px;
-    height: 200px;
-    background-color: pink;
-    margin: 100px auto 0 auto;
-    animation: name 2s linear infinite alternate;
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+/*.pinkbox {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    background-color: pink;*/
+/*    margin: 100px auto 0 auto;*/
+/*    animation: name 2s linear infinite alternate;*/
+/*}*/
+
+.football {
+    background-color: rgba(255, 0, 0, 0.53);
+    border: 1px solid black;
+    width: 30vw;
+    height: 30vw;
+    border-radius: 50%;
+    animation: football 5s ease infinite alternate;
+}
+
+@keyframes football {
+    0% {
+        transform: scale(0.5);
+    }
+
+    55% {
+        transform: scale(1.25);
+        background-color: rgba(4, 168, 101, 0.47);
+    }
+
+    100% {
+        transform: scale(2);
+        background-color: rgba(218, 112, 214, 0.49);
+    }
+}
+
+.football2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Kablammo", system-ui;
+    background-color: rgba(255, 218, 185, 0.53);
+    border: 1px solid black;
+    width: 30vw;
+    height: 30vw;
+    border-radius: 50%;
+    animation: football2 5s ease infinite alternate;
+}
+
+@keyframes football2 {
+    from {
+        transform: scale(2);
+    }
+
+    35% {
+        transform: scale(1.25);
+    }
+
+    to {
+        transform: scale(0.5);
+    }
+}
+
 
 @keyframes name {
     /*0%{*/
