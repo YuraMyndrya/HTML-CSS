@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner {
+    width: 30vw;
+    height: 30vw;
+    background-color: rgba(255, 200, 20, 0.87);
+    font-family: "Kablammo", system-ui;
+    font-weight: 600;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: conteiner 4s ease infinite alternate;
+}
+
+@keyframes conteiner {
+    from {
+        transform: scale(2.5, 1.5) translateX(-200px);
+    }
+
+    40% {
+        transform: skewX(30deg);
+        background-color: rgba(248, 0, 207, 0.9);
+        border-radius: 50%;
+    }
+
+    70% {
+        transform: skewX(-30deg);
+        background-color: rgba(54, 248, 0, 0.9);
+    }
+
+    to {
+        transform: skewY(30deg) translateX(200px);
+        background-color: rgba(0, 12, 248, 0.9);
+    }
+
+}
+
+.hh {
+    animation: text 3s ease infinite alternate;
+}
+
+@keyframes text {
+    from {
+        transform: scale(0.8);
+    }
+
+    50% {
+        transform: rotateX(45deg);
+    }
+    to {
+        transform: rotateY(-45deg)
+    }
+}
