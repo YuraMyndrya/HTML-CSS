@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw 4_4 done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW4/hw4_4/Style4_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW4/hw4_4/Style4_4.css" afterDir="false" />
-    </list>
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw4_4(min change) done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,15 +124,7 @@
       <workItem from="1749038997937" duration="8810000" />
       <workItem from="1749107720047" duration="23831000" />
       <workItem from="1749456283874" duration="11858000" />
-      <workItem from="1749474624067" duration="6532000" />
-    </task>
-    <task id="LOCAL-00012" summary="HW Task2 done">
-      <option name="closed" value="true" />
-      <created>1748086463472</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1748086463472</updated>
+      <workItem from="1749474624067" duration="6666000" />
     </task>
     <task id="LOCAL-00013" summary="HW Task3 done">
       <option name="closed" value="true" />
@@ -521,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749480659645</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="hw4_4(min change) done">
+      <option name="closed" value="true" />
+      <created>1749481296708</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1749481296708</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change less 2_4" />
     <MESSAGE value="create hw2_1.html" />
     <MESSAGE value="create hw2_2 done" />
     <MESSAGE value="create hw2_3 done" />
@@ -564,6 +560,7 @@
     <MESSAGE value="hw4_2 done" />
     <MESSAGE value="hw 4_3 done" />
     <MESSAGE value="hw 4_4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 4_4 done" />
+    <MESSAGE value="hw4_4(min change) done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4_4(min change) done" />
   </component>
 </project>
