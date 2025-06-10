@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.ballbox {
+    width: 100vw;
+    height: 100vh;
+    background: #16457a;
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 13vw;
+    height: 100%;
+}
