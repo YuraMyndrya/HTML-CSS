@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="lesson5_5">
-      <change afterPath="$PROJECT_DIR$/HW5/hw5_1/Style5_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/hw5_1/hw5_1.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_1 start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/hw5_1/Style5_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_1/Style5_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/hw5_1/hw5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_1/hw5_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,15 +133,8 @@
       <workItem from="1749456283874" duration="11858000" />
       <workItem from="1749474624067" duration="6666000" />
       <workItem from="1749542168723" duration="12128000" />
-      <workItem from="1749637691009" duration="6473000" />
-    </task>
-    <task id="LOCAL-00018" summary="Task5.2">
-      <option name="closed" value="true" />
-      <created>1748265259915</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1748265259915</updated>
+      <workItem from="1749637691009" duration="6507000" />
+      <workItem from="1749749345977" duration="4209000" />
     </task>
     <task id="LOCAL-00019" summary="Task5.2 rename to index.html">
       <option name="closed" value="true" />
@@ -527,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749572967406</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="hw5_1 start">
+      <option name="closed" value="true" />
+      <created>1749742563723</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1749742563723</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create Lesson3_2" />
     <MESSAGE value="Change&#10; Lesson3_2" />
     <MESSAGE value="Create Lesson3_3" />
     <MESSAGE value="change Lesson3_3" />
@@ -570,6 +570,7 @@
     <MESSAGE value="lesson5_2 Animation )))" />
     <MESSAGE value="lesson5_3 Animation move X Y" />
     <MESSAGE value="lesson5_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson5_5" />
+    <MESSAGE value="hw5_1 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5_1 start" />
   </component>
 </project>
