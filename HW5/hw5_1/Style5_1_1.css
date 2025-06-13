@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #8ce9e3;
+    background: rgba(0, 0, 0, 0.23);
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -24,7 +24,7 @@ main {
     border-top: 8px solid cornflowerblue;
     border-right: 8px solid red;
     border-bottom: 8px solid mediumspringgreen;
-    animation: circl 8s ease infinite alternate;
+    animation: circl 10s ease infinite alternate;
 }
 
 header {
@@ -78,6 +78,6 @@ header {
     }
 
     to {
-        transform: scale(1) translate(500px, -200px) rotate(-360deg);
+        transform: scale(0.5) translate(500px, -200px) rotate(-360deg);
     }
 }
