@@ -1,0 +1,87 @@
+body {
+    background: linear-gradient(90deg, rgba(42, 155, 117, 1) 0%, rgba(109, 178, 105, 1) 0%, rgba(237, 221, 83, 1) 51%, rgba(87, 199, 133, 1) 88%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*-------------players------------------*/
+.players {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/*-----------------lawn--------------*/
+.lawn img {
+    width: 100vw;
+    height: 7vh;
+}
+
+/*-------------ball-----------------*/
+.ball img {
+    width: 4vw;
+    height: auto;
+    animation: ball 4s linear alternate infinite;
+}
+
+@keyframes ball {
+
+    from {
+        transform: translate(-30vw, -2vh);
+    }
+
+    50% {
+        transform: translateY(-50vh);
+    }
+
+    to {
+        transform: translate(30vw, -18vh);
+    }
+
+}
+
+/*-------------player1 -----------------*/
+.player1 img {
+    width: 15vw;
+    animation: player1 4s linear infinite alternate;
+}
+
+@keyframes player1 {
+    from {
+        transform: translate(10vw);
+    }
+
+    15% {
+        transform: translate(0);
+    }
+
+    to {
+        transform: translate(0);
+    }
+
+}
+
+
+/*-------------player2 -----------------*/
+.player2 img {
+    width: 12vw;
+    height: 25vh;
+    animation: player2 4s infinite alternate;
+}
+
+@keyframes player2 {
+    from {
+        transform: translate(0);
+    }
+
+    80% {
+        transform: translate(0);
+    }
+
+    to {
+        transform: translate(-11vw);
+    }
+
+}
