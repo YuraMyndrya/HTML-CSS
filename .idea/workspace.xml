@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_2 create">
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_1_2 revision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW5/hw5_1/Style5_1_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_1/Style5_1_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/hw5_1/img5_1_2/Footballplayer2.png" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_1/img5_1_2/Footballplayer2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,15 +134,7 @@
       <workItem from="1749542168723" duration="12128000" />
       <workItem from="1749637691009" duration="6507000" />
       <workItem from="1749749345977" duration="4496000" />
-      <workItem from="1749798269946" duration="11204000" />
-    </task>
-    <task id="LOCAL-00024" summary="change all img">
-      <option name="closed" value="true" />
-      <created>1748328769380</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1748328769380</updated>
+      <workItem from="1749798269946" duration="11319000" />
     </task>
     <task id="LOCAL-00025" summary="Create html doc selectors in CSS">
       <option name="closed" value="true" />
@@ -529,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749809259538</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="hw5_1_2 revision">
+      <option name="closed" value="true" />
+      <created>1749810033844</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1749810033844</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create Lesson3_5" />
     <MESSAGE value="change Lesson3_5" />
     <MESSAGE value="change Lesson3_4" />
     <MESSAGE value="hw3_1 done" />
@@ -572,6 +570,7 @@
     <MESSAGE value="hw5_1_1 done" />
     <MESSAGE value="hw5_1_2 done" />
     <MESSAGE value="hw5_2 create" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw5_2 create" />
+    <MESSAGE value="hw5_1_2 revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5_1_2 revision" />
   </component>
 </project>

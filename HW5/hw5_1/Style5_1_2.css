@@ -66,8 +66,7 @@ body {
 
 /*-------------player2 -----------------*/
 .player2 img {
-    width: 12vw;
-    height: 25vh;
+    width: 15vw;
     animation: player2 4s infinite alternate;
 }
 
