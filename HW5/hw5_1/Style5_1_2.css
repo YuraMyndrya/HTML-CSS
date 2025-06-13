@@ -37,7 +37,7 @@ body {
     }
 
     to {
-        transform: translate(30vw, -18vh);
+        transform: translate(31vw, -21vh);
     }
 
 }
@@ -81,7 +81,7 @@ body {
     }
 
     to {
-        transform: translate(-11vw);
+        transform: translate(-9vw);
     }
 
 }
