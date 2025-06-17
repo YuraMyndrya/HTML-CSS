@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_1_2 revision">
+      <change afterPath="$PROJECT_DIR$/HW5/hw5_1/Style5_1_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/hw5_1/hw5_1_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/hw5_1/Style5_1_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_1/Style5_1_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +88,11 @@
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW5\hw5_1" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON5\Lesson5_1\favicon" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3\img" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW3" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON3" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -134,15 +135,9 @@
       <workItem from="1749542168723" duration="12128000" />
       <workItem from="1749637691009" duration="6507000" />
       <workItem from="1749749345977" duration="4496000" />
-      <workItem from="1749798269946" duration="11319000" />
-    </task>
-    <task id="LOCAL-00025" summary="Create html doc selectors in CSS">
-      <option name="closed" value="true" />
-      <created>1748341591130</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1748341591130</updated>
+      <workItem from="1749798269946" duration="11616000" />
+      <workItem from="1749811055521" duration="854000" />
+      <workItem from="1750151212362" duration="1237000" />
     </task>
     <task id="LOCAL-00026" summary="Create html doc 2_2">
       <option name="closed" value="true" />
@@ -528,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749810033844</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="hw5_1_2 revision">
+      <option name="closed" value="true" />
+      <created>1749810115071</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1749810115071</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
