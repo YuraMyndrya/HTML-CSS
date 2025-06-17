@@ -22,7 +22,7 @@ body {
 }
 
 li > a {
-    color: #1E1E1E;
+    color: #E9E3DC;
     font-family: "Bowlby One", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -32,7 +32,8 @@ li > a {
     text-decoration: none;
 }
 
-.link1 {
+.link1 a {
+    color: #1E1E1E;
     width: 203px;
     height: 60px;
     background: #B3A0CD;
