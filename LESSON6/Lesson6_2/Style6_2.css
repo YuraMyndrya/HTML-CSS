@@ -1,0 +1,30 @@
+* {
+    background-color: #7F7A7A;
+}
+
+h1 + p {
+    color: red;
+}
+
+h2 ~ p {
+    color: #19d325;
+}
+
+div p {
+    color: #16457a;
+}
+
+div span {
+    color: yellow;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+section > p > span {
+    color: brown;
+    font-size: 30px;
+}
+
+div > div > p {
+    color: #ccc8c8;
+}

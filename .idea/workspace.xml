@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_2 done">
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)">
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_1/Lesson6_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_1/Style6_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_2/Lesson6_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_2/Style6_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_3/Lesson6_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_3/Style6_3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/hw5_2/Style5_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_2/Style5_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5/hw5_2/hw5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/hw5_2/hw5_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +92,11 @@
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON6" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW5\hw5_1" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON5\Lesson5_1\favicon" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3\img" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW3" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -138,15 +142,8 @@
       <workItem from="1749798269946" duration="11616000" />
       <workItem from="1749811055521" duration="854000" />
       <workItem from="1750151212362" duration="16849000" />
-      <workItem from="1750174011978" duration="664000" />
-    </task>
-    <task id="LOCAL-00028" summary="create lesson1_4">
-      <option name="closed" value="true" />
-      <created>1748360554451</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1748360554451</updated>
+      <workItem from="1750174011978" duration="818000" />
+      <workItem from="1750232812757" duration="5469000" />
     </task>
     <task id="LOCAL-00029" summary="workspace commit">
       <option name="closed" value="true" />
@@ -532,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750168379179</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)">
+      <option name="closed" value="true" />
+      <created>1750174778906</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1750174778906</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw3_1 done" />
     <MESSAGE value="hw3_2 done" />
     <MESSAGE value="hw3_3 done" />
     <MESSAGE value="Lesson4_1" />
@@ -575,6 +579,7 @@
     <MESSAGE value="hw5_1_2 revision" />
     <MESSAGE value="hw5_1_3 done" />
     <MESSAGE value="hw5_2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw5_2 done" />
+    <MESSAGE value="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)" />
   </component>
 </project>
