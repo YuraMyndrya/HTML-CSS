@@ -1,0 +1,83 @@
+/*------------------------------------------------------------------------------*/
+button:hover {
+    background-color: yellow;
+}
+
+button:active {
+    background-color: pink;
+}
+
+button {
+    border: 1px solid brown;
+    border-radius: 15%;
+}
+
+/*------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------*/
+a:link {
+    text-decoration: none;
+    color: #a5ff50;
+}
+
+a:visited {
+    color: #da1010;
+}
+
+/*------------------------------------------------------------------------------*/
+
+
+/*----------------------------------------------------------------------------*/
+/*li {*/
+/*    color: coral;*/
+/*}*/
+
+/*li::marker {*/
+/*    color: yellow;*/
+/*}*/
+
+/*-------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------*/
+p::selection {
+    background-color: black;
+    color: green;
+}
+
+/*------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------*/
+ul li::after {
+    content: "!!!!!!!!!!";
+    color: red;
+}
+
+ul li::before {
+    content: "?????????";
+    color: green;
+}
+
+/*------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------*/
+ul {
+    padding-inline-start: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li::before {
+    content: "";
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    background-size: cover;
+    margin-right: 7px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEvklEQVR4nO2aW4hWVRTHf6PzjTNppdP9ZvWWEglRL0HQQ8ZU04wElUYEgVREmQT1lmUXDSKooBqKiOqhG3QTNHvqhqKlGWlld7tZBt2k5lLOFwv+JxZnzvnO3vt8Thb+YcPH2WutvdfZ+6z9X2t/sB//X0wHzgZuA1YDW4BvgVG1n4CtwHPAHcAgcAD7CLqBRcBaYAxoRrY/gBeAhUDnv+FAD7AU2OkmZW99A/BXgAMmsxH40z37DLgSmDZZTpwHfOEmsAm4Cpip/tP0rMyJTZIx9Er3Pdf/KXDm3t5Gj7oB3wX6SmSnasV+c/K79cz6itDvHNoD3KuVbyuOcW/Z9vV1LSbkcazbPicGyE8FbtQYprNOq9YW2AQ+l+HtwNxI/RHpxuz9efpmTG8bcBw1cRSwQwbfSHw7KY6gsTa4QHAoibAY/7YMvQXMSLST6ojhIGC99F8DGiRgSAa+rvM2ajpiOEyRzGw8RCT6pWiH3BnUQ11HDKcAw8A4cBaBmOY+tFupj3Y4YrhZdraGbrEbXOxfyb7jyEo3LzuPWqIL+MYpWByvgwMdB6t7Hqxz8/qy6hy7LEcnxsRqU2A05BNny36fnmhregEpvaCVwpoCbjQ/ctAOnc6jBbZG1WcyMZhfYMtShUL0llDxp4HZgQMeKUpfxX7XSjY0/D5ZYGOs7GxbUDH4NkWxOSUDWlL1XUQusgs4v8TWbFH6VTmqn2+FpPXuAkFjo8+Kufrn7wPLxYksQNyjGN+MbOPSNRsnK8RuzskMyyFP9bN2Z5Ejq3NCL7ul61Fq+rhSVi/nqXpqy9v4FXgKuFiRD83lpZzc80WObHcCtjpTSpa9oY9vKJch1m0/AA8D57Y4c6bkdo4djhPwizoXE45O7fW6TuyKJISLpWcvcgKycBnLMB9pgyNmIwZd0vu9qDMrGoRkfh59bXDEtlMMOqVnQWgCso94VqTRRkEAiGk/6w3H4BDpfl/UmdGJk4jHEzUcMd1YzHHHQGn4tTAbi8EajgwkjHdhq/CbhbVbEgz3FByaIW13YslnufSt9FpKUSw3TsEzCY4Yj0vBm60oysHiNWOuahiDSxMcMZ1YzNIcR9ypPwEZc7060nhHAcUJaWsSKP010n2xldBCCW2OHCBLj39UVbIKR0s2KG116HDk8SIq6rsZFbdidQhO1TKPV2VtOQxIZ0QsOgSDLtWtvIa43hWpq4RnOLJ5P/F40OU6VdGrIZJo8ktCjHe7Wm/Vsj8muS3Si0WPnGjKqVa4SXIfxvDBPpfUlC37IkfcyrLGEMxzJaOBgO1rmWgSq90hGmH3FcuAa4ErlPzE0v4yLHXB4nKNsUxj2thfqf++FOPdrohd1uz+rx2waPRqxVjrE7fvP2EyKyA3Y0oyCWh1DtkcDq87wPG5O0Pf9gTeRFXhBNlqFrSPI8pRlTjCXbrk24o22F9RYnujLpvaCguVDxSUfXamXsAIXSVFjKG9fVXdp+X2g96u7ykWMx0lz5pdaZzDJKFLITMLi02t1Dv6C8cCnS29OdY6V31WsXw9V6K1v3ssqROZ6qAhormqpGhd1SxteAW4ZDL/8RCyTfp1IWOOfaCixLAmbIfdR6pg3iWCWZpP7Af/cfwN2He4PZKGg/0AAAAASUVORK5CYII=");
+}

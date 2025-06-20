@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)">
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_1/Lesson6_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_1/Style6_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_2/Lesson6_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_2/Style6_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_3/Lesson6_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_3/Style6_3.css" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson6_1 - 6_3 finished">
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_4/Lesson6_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_4/Style6_4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,15 +139,9 @@
       <workItem from="1749811055521" duration="854000" />
       <workItem from="1750151212362" duration="16849000" />
       <workItem from="1750174011978" duration="818000" />
-      <workItem from="1750232812757" duration="5469000" />
-    </task>
-    <task id="LOCAL-00029" summary="workspace commit">
-      <option name="closed" value="true" />
-      <created>1748361198252</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1748361198252</updated>
+      <workItem from="1750232812757" duration="9008000" />
+      <workItem from="1750408018034" duration="2057000" />
+      <workItem from="1750434588250" duration="1243000" />
     </task>
     <task id="LOCAL-00030" summary="Created less 2_3">
       <option name="closed" value="true" />
@@ -537,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750174778906</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Lesson6_1 - 6_3 finished">
+      <option name="closed" value="true" />
+      <created>1750238374759</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1750238374759</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw3_2 done" />
     <MESSAGE value="hw3_3 done" />
     <MESSAGE value="Lesson4_1" />
     <MESSAGE value="Lesson 4_2 and 4_3" />
@@ -580,6 +577,7 @@
     <MESSAGE value="hw5_1_3 done" />
     <MESSAGE value="hw5_2 done" />
     <MESSAGE value="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)" />
+    <MESSAGE value="Lesson6_1 - 6_3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson6_1 - 6_3 finished" />
   </component>
 </project>
