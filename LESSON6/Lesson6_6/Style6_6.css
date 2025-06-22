@@ -1,0 +1,59 @@
+/*!*----------напис зверху блочний -----------*!*/
+/*!*----------відступ зверху -----------*!*/
+/*label {*/
+/*    display: block;*/
+/*    margin-top: 10px;*/
+/*}*/
+
+
+/*!*----------колір зірочки(стилізація)-----------*!*/
+/*form sup {*/
+/*    color: red;*/
+/*}*/
+
+
+/*!*----------збільшення форми для вводу-----------*!*/
+/*!*input {*!*/
+/*!*    width: 150px;*!*/
+/*!*}*!*/
+
+/*type {*/
+/*    color: #d11212;*/
+/*}*/
+
+/*textarea {*/
+/*    resize: none; !*----------не має можливості змінювати розмір в інтерфейсі користувача-----------*!*/
+/*    width: 180px;*/
+/*    height: 60px; !*--розміри які мають більший пріорітет ніж вбудовані значення/атрибути в тегові--*!*/
+/*}*/
+
+label {
+    display: block;
+}
+
+.form_reg {
+    border: 3px solid lightgreen;
+    width: 30%;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+input[type="text"] {
+    background-color: greenyellow;
+    font-family: "Arial Narrow", sans-serif;
+}
+
+input[type="text"]::placeholder {
+    color: orangered;
+}
+
+
+textarea {
+    background-color: greenyellow;
+}
+
+
+input[type="text"]:focus {
+    outline: 6px solid lightgreen;
+}
+

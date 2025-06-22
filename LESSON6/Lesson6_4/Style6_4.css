@@ -5,6 +5,7 @@ button:hover {
 
 button:active {
     background-color: pink;
+    transform: translateX(300px);
 }
 
 button {

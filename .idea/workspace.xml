@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson6_4">
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_5/Lesson6_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_5/Style6_5.css" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson6_5 in process">
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_6/Lesson6_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_6/Style6_6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_7/Lesson6_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_7/Style6_7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Lesson6_7/img/check_mark.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_4/Style6_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_4/Style6_4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_5/Lesson6_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_5/Lesson6_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_5/Style6_5.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_5/Style6_5.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,33 +65,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Myndrya/WebstormProjects/HTML-CSS/HW5/hw5_2/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON6/Lesson6_7/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON6\Lesson6_7\img" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\HW5\hw5_2\img" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON5\Lesson5_5" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON5\Lesson5_3" />
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3\img" />
-      <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON4\Lesson4_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON6" />
@@ -143,14 +149,9 @@
       <workItem from="1750408018034" duration="2057000" />
       <workItem from="1750434588250" duration="2223000" />
       <workItem from="1750508890656" duration="4600000" />
-    </task>
-    <task id="LOCAL-00031" summary="Created less 2_4">
-      <option name="closed" value="true" />
-      <created>1748446634680</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1748446634695</updated>
+      <workItem from="1750530504405" duration="58000" />
+      <workItem from="1750574075984" duration="402000" />
+      <workItem from="1750597705641" duration="8808000" />
     </task>
     <task id="LOCAL-00032" summary="change less 2_4">
       <option name="closed" value="true" />
@@ -536,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750435900483</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Lesson6_5 in process">
+      <option name="closed" value="true" />
+      <created>1750530555498</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1750530555498</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson4_1" />
     <MESSAGE value="Lesson 4_2 and 4_3" />
     <MESSAGE value="Lesson 4_4 started" />
     <MESSAGE value="Lesson 4_4 finished" />
@@ -579,6 +587,7 @@
     <MESSAGE value="hw5_2 done fixed (&lt;a&gt; &amp; &lt;h1&gt;)" />
     <MESSAGE value="Lesson6_1 - 6_3 finished" />
     <MESSAGE value="Lesson6_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson6_4" />
+    <MESSAGE value="Lesson6_5 in process" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson6_5 in process" />
   </component>
 </project>
