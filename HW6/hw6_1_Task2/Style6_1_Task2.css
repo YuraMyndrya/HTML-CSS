@@ -43,8 +43,9 @@ body {
 
 .btn {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 7.7vw;
 }
 
 input[type="submit"] {
@@ -53,10 +54,10 @@ input[type="submit"] {
     width: 5.5vw;
     height: 3.5vh;
     border-radius: 5px;
-    margin-right: 1vw;
 }
 
 label {
-    margin-left: 1vw;
+    display: flex;
+    gap: 0.3vw;
 }
 
