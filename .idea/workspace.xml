@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="Lesson6_7 done">
-      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_5/Style6_5.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_5/Style6_5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6_1/Style6_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/hw6_1/hw6_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON5/Lesson5_2/Style5_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON5/Lesson5_2/Style5_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_4/Lesson6_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_4/Lesson6_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_4/Style6_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_4/Style6_4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_6/Lesson6_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_6/Lesson6_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_6/Style6_6.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Lesson6_6/Style6_6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Lesson6_7/img/check_mark.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +65,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON6/Lesson6_7/img",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Myndrya/WebstormProjects/HTML-CSS/LESSON6/Lesson6_7/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Myndrya\WebstormProjects\HTML-CSS\LESSON6\Lesson6_7\img" />
@@ -143,15 +151,9 @@
       <workItem from="1750508890656" duration="4600000" />
       <workItem from="1750530504405" duration="58000" />
       <workItem from="1750574075984" duration="402000" />
-      <workItem from="1750597705641" duration="8954000" />
-    </task>
-    <task id="LOCAL-00033" summary="change less 2_4">
-      <option name="closed" value="true" />
-      <created>1748499538316</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1748499538316</updated>
+      <workItem from="1750597705641" duration="8965000" />
+      <workItem from="1750606880538" duration="254000" />
+      <workItem from="1750670700597" duration="5355000" />
     </task>
     <task id="LOCAL-00034" summary="create hw2_1.html">
       <option name="closed" value="true" />
@@ -537,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750606638100</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Lesson6_7 done">
+      <option name="closed" value="true" />
+      <created>1750606773674</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1750606773674</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

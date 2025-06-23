@@ -39,12 +39,12 @@ label {
 }
 
 input[type="text"] {
-    background-color: greenyellow;
+    background-color: #ff00af;
     font-family: "Arial Narrow", sans-serif;
 }
 
 input[type="text"]::placeholder {
-    color: orangered;
+    color: rgba(21, 21, 21, 0.21);
 }
 
 
@@ -54,6 +54,8 @@ textarea {
 
 
 input[type="text"]:focus {
-    outline: 6px solid lightgreen;
+    outline: 9px solid lightgreen;
 }
+
+
 
