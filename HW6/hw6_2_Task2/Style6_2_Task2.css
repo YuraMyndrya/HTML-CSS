@@ -80,6 +80,7 @@ input[type="Submit"] {
 
 /*-------------------АБО--------------------------*/
 .loginbox > h4 {
+    font-size: 17px;
     font-family: "Roboto", sans-serif;
     margin: 1vh 0 2vh 0;
     color: gray;
@@ -102,6 +103,7 @@ input[type="Submit"] {
 i {
     font-size: 20px;
     margin-right: 1vh;
+    background-size: cover;
 }
 
 .forgot {
