@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="ws">
-      <change afterPath="$PROJECT_DIR$/HW6/hw6_2_Task2/Style6_2_Task2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/hw6_2_Task2/hw6_2_Task2.html" afterDir="false" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw6_2_Task2 done">
+      <change afterPath="$PROJECT_DIR$/LESSON6/Training/Style_training.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON6/Training/Training.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW6/hw6_2_Task2/hw6_2_Task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW6/hw6_2_Task2/hw6_2_Task2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +20,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -150,15 +151,7 @@
       <workItem from="1750606880538" duration="254000" />
       <workItem from="1750670700597" duration="20269000" />
       <workItem from="1750703942345" duration="4130000" />
-      <workItem from="1750743300813" duration="14498000" />
-    </task>
-    <task id="LOCAL-00041" summary="Create Lesson3_3">
-      <option name="closed" value="true" />
-      <created>1748935580856</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1748935580856</updated>
+      <workItem from="1750743300813" duration="16878000" />
     </task>
     <task id="LOCAL-00042" summary="Create Lesson3_3">
       <option name="closed" value="true" />
@@ -544,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750743337553</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="hw6_2_Task2 done">
+      <option name="closed" value="true" />
+      <created>1750758066890</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1750758066891</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw4_4(min change) done" />
     <MESSAGE value="workspace update" />
     <MESSAGE value="create lesson5_1 &amp; 5_2" />
     <MESSAGE value="lesson5_2 Animation )))" />
@@ -587,6 +587,7 @@
     <MESSAGE value="hw6_1_Task2 done" />
     <MESSAGE value="hw6_1_Task2 correct_done" />
     <MESSAGE value="ws" />
-    <option name="LAST_COMMIT_MESSAGE" value="ws" />
+    <MESSAGE value="hw6_2_Task2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw6_2_Task2 done" />
   </component>
 </project>
