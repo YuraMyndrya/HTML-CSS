@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/*----------------------------.logo instagram <h1> ----------------------------*/
+.loginbox > h1 {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: 7vh;
+}
+
+
+/*----------------------------loginbox----------------------------*/
+.loginbox {
+    width: 32vw;
+    height: 72vh;
+    border: 1.5px solid silver;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.loginbox > form {
+    margin-top: 7vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginbox > form > input {
+    width: 23vw;
+    height: 7vh;
+    margin-bottom: 1vh;
+    padding-left: 0.5vw;
+    background-color: #fafafa;
+    color: black;
+    border: 1px solid silver;
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+input::placeholder {
+    color: gray;
+}
+
+
+input[type="Submit"] {
+    width: 23vw;
+    height: 5vh;
+    background-color: #0095f6;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 7px;
+    margin: 1.2vh auto 3vh auto;
+}
+
+
+/*-------------------АБО--------------------------*/
+.loginbox > h4 {
+    font-family: "Roboto", sans-serif;
+    margin: 1vh 0 2vh 0;
+    color: gray;
+}
+
+
+/*---------------------<a>------------------------------*/
+.loginbox > a {
+    margin-top: 3vh;
+    text-align: center;
+    color: #3579ea;
+}
+
+.logo_f {
+    font-weight: 700;
+    color: #3579ea;
+    margin-bottom: 1.5vh;
+}
+
+i {
+    font-size: 20px;
+    margin-right: 1vh;
+}
+
+.forgot {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+/*----------------------------registration footer----------------------------*/
+.registration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32vw;
+    height: 11vh;
+    margin-top: 1.5vh;
+    border: 1.5px solid silver;
+}
+
+
+.registration > a {
+    color: #0095f6;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 0.5vw;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    color: rgba(0, 0, 0, 0.86);
+}
+
+a:hover {
+    color: #0031f6;
+}
+
+input[type="submit"]:hover {
+    background-color: #0031f6;
+}
