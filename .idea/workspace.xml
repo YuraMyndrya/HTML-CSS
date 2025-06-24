@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="hw6_2_Task2 change script to link(in head) fo icon Facebook" />
+    <list default="true" id="0f656a41-6493-4c36-b3c2-b42447868a1c" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/LESSON6/Training/Style_Training.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Training/Style_training.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON6/Training/Training.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON6/Training/Training.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +20,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="tsconfig.json" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -146,15 +151,7 @@
       <workItem from="1750606880538" duration="254000" />
       <workItem from="1750670700597" duration="20269000" />
       <workItem from="1750703942345" duration="4130000" />
-      <workItem from="1750743300813" duration="20234000" />
-    </task>
-    <task id="LOCAL-00045" summary="create Lesson3_5">
-      <option name="closed" value="true" />
-      <created>1748949048114</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1748949048114</updated>
+      <workItem from="1750743300813" duration="24983000" />
     </task>
     <task id="LOCAL-00046" summary="change Lesson3_5">
       <option name="closed" value="true" />
@@ -540,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750764758888</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="1">
+      <option name="closed" value="true" />
+      <created>1750771508504</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1750771508504</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson5_2 Animation )))" />
     <MESSAGE value="lesson5_3 Animation move X Y" />
     <MESSAGE value="lesson5_5" />
     <MESSAGE value="hw5_1 start" />
@@ -583,6 +587,7 @@
     <MESSAGE value="hw6_2_Task2 done" />
     <MESSAGE value="hw6_2_Task2 script_fontawesome moved to footer" />
     <MESSAGE value="hw6_2_Task2 change script to link(in head) fo icon Facebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw6_2_Task2 change script to link(in head) fo icon Facebook" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
