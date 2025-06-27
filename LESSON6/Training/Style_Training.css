@@ -1,82 +1,160 @@
-* {
-    margin: 0;
-}
+/*@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');*/
 
-body {
-    width: 100vw;
-    height: 100vh;
-    background-color: #f2f4f7;
-}
+/** {*/
+/*    margin:0;*/
+/*    box-sizing: border-box;*/
+/*}*/
 
-
-/*-----------------------------main----------------------------------*/
-
-
-main {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    height: 100vh;
-}
+/*body {*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*    background-color: #f2f4f7;*/
+/*}*/
 
 
-/*-----------------------------left_container----------------------------------*/
-
-.left_container {
-    width: 30vw;
-    height: 90vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-h1 {
-    font-family: "Klavika", sans-serif;
-    color: #0866ff;
-    font-size: 53px;
-    font-weight: 700;
-}
-
-h3 {
-    font-family: "Klavika", sans-serif;
-    font-size: 20px;
-    font-weight: 400;
-    text-align: start;
-}
+/*!*-----------------------------main----------------------------------*!*/
 
 
-/*-----------------------------right_container----------------------------------*/
-.right_container {
-    width: 30vw;
-    height: 90vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.mainbox {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-}
+/*body {*/
+/*    display: flex;*/
+/*    justify-content: space-evenly;*/
+/*    align-items: center;*/
+/*    height: 100vh;*/
+/*    padding:0 80px;*/
+/*}*/
 
 
-/*-----------------------------form----------------------------------*/
-form {
-    display: flex;
-    flex-direction: column;
-}
+/*!*-----------------------------left_container----------------------------------*!*/
 
-form > input {
-    width: 24vw;
-    height: 6vh;
-    margin: 1vh;
-}
+/*.left_container {*/
+/*    width: 35vw;*/
+/*    height: 90vh;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin-bottom: 100px;*/
+/*}*/
+
+/*h1 {*/
+/*    width: 35vw;*/
+/*    font-family: "Klavika", sans-serif;*/
+/*    color: #0866ff;*/
+/*    font-size: 60px;*/
+/*    font-weight: 700;*/
+/*    text-align: start;*/
+/*}*/
+
+/*h3 {*/
+/*    font-family: "Klavika", sans-serif;*/
+/*    font-size: 26px;*/
+/*    font-weight: 400;*/
+/*    text-align: start;*/
+/*}*/
 
 
-/*-----------------------------input type="submit"----------------------------------*/
+/*!*-----------------------------right_container----------------------------------*!*/
+/*.right_container {*/
+/*    width: 30vw;*/
+/*    height: 90vh;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*}*/
 
+/*.mainbox {*/
+/*    width: 30vw;*/
+/*    height: 55vh;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    background-color: white;*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0px 13px 27px -2px rgba(0,0,0,0.28);*/
+/*    -webkit-box-shadow: 0px 13px 27px -2px rgba(0,0,0,0.28);*/
+/*    -moz-box-shadow: 0px 13px 27px -2px rgba(0,0,0,0.28);*/
+/*}*/
+
+
+/*!*-----------------------------form----------------------------------*!*/
+/*form {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*}*/
+
+/*form > input {*/
+/*    width: 28vw;*/
+/*    height: 8vh;*/
+/*    margin: 4px;*/
+/*    border: 1px solid silver;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+
+/*!*-----------------------------login  input type="submit"----------------------------------*!*/
+/*#in {*/
+/*    width: 28vw;*/
+/*    height: 8vh;*/
+/*    background-color: #1808ff;*/
+/*    color: white;*/
+/*    font-size: 18px;*/
+/*    font-weight: 600;*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*    font-family: "Klavika", sans-serif;*/
+/*    margin-top: 12px;*/
+/*    cursor: pointer;*/
+/*    transition: 1s;*/
+/*}*/
+
+/*#in:hover {*/
+/*    background-color: rgba(8, 102, 255, 0.95);*/
+/*}*/
+
+/*!*--------------------------.forget password----------------------------*!*/
+/*.forget {*/
+/*    width: 28vw;*/
+/*    border-bottom: 1px solid silver;*/
+/*    text-align: center;*/
+/*    padding: 18px;*/
+/*    color: #0866ff;*/
+/*    text-decoration: none;*/
+/*    font-size: 16px;*/
+/*    font-family: "Klavika", sans-serif;*/
+/*}*/
+
+/*.forget:hover {*/
+/*    text-decoration: underline;*/
+/*}*/
+
+/*!*-------------------------new_acc-------------------------------*!*/
+/*#new_acc {*/
+/*    width: 16vw;*/
+/*    height: 8vh;*/
+/*    background-color: #42b72a;*/
+/*    color: white;*/
+/*    font-size: 17px;*/
+/*    font-weight: 600;*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*    font-family: "Klavika", sans-serif;*/
+/*    margin: 3vh auto;*/
+/*    cursor: pointer;*/
+/*    transition: 1s;*/
+/*}*/
+
+/*#new_acc:hover {*/
+/*    background-color: #00981f;*/
+/*}*/
+
+/*.footer {*/
+/*    margin-top: 30px;*/
+/*    text-align: center;*/
+/*}*/
+/*.footer>a {*/
+/*    text-decoration: none;*/
+/*    font-family: "Klavika", sans-serif;*/
+/*    color: black;*/
+/*}*/
 
