@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+body {
+    height: 100vh;
+}
+
+
+.item_1 {
+    width: 60vw;
+    height: 60vh;
+    background-color: rgb(0, 58, 248);
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -2;
+}
+
+.item_2 {
+    width: 60vw;
+    height: 60vh;
+    background-color: rgb(234, 130, 130);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
