@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+body {
+    height: 100vh;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    width: 100vw;
+    height: 200px;
+    overflow: auto;
+}
+
+.item_1 {
+    width: 33vw;
+    height: 200px;
+    background-color: rgba(0, 21, 248, 0.45);
+    position: relative;
+    top: -200px;
+}
+
+.item_2 {
+    width: 34vw;
+    height: 200px;
+    background-color: rgba(234, 130, 130, 0.58);
+    position: relative;
+    bottom:200px;
+}
+
+.item_3 {
+    width: 33vw;
+    height: 200px;
+    background-color: rgba(160, 253, 0, 0.55);
+    position: relative;
+    bottom: 200px;
+}
