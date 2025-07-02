@@ -1,0 +1,17 @@
+.item {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
+
+.item_1 {
+    background-color: #ff0000;
+}
+
+.item_2 {
+    background-color: #00ff00;
+}
+
+.item_3 {
+    background-color: #004fff;
+}

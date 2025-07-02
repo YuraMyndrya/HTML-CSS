@@ -1,0 +1,14 @@
+@media screen and (min-width: 769px) and (max-width: 1280px){
+    .item_1 {
+        background-color: #ff0000;
+        opacity: 0.5;
+    }
+    .item_2 {
+        background-color: #3fff00;
+        opacity: 0.5;
+    }
+    .item_3 {
+        background-color: #0039ff;
+        opacity: 0.5;
+    }
+}

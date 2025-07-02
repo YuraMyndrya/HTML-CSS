@@ -1,0 +1,23 @@
+@media screen and (min-width: 1281px) {
+    .item_1 {
+        background-color: #ff0000;
+        width: 400px;
+        height: 200px;
+        border-radius: 10px;
+        border: none;
+    }
+    .item_2 {
+        background-color: #3fff00;
+        width: 400px;
+        height: 200px;
+        border-radius: 10px;
+        border: none;
+    }
+    .item_3 {
+        background-color: #0039ff;
+        width: 400px;
+        height: 200px;
+        border-radius: 10px;
+        border: none;
+    }
+}

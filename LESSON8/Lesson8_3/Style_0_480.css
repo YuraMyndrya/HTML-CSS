@@ -1,0 +1,6 @@
+@media screen and (max-width: 480px) {
+    .item_1 {
+        background-color: #ff0000;
+        opacity: 0.5;
+    }
+}
