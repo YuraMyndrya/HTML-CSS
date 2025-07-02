@@ -47,7 +47,7 @@ body {
     top: -50px;
 }
 
-.cards:nth-child(1) div:nth-child(2) {
+.cards div:nth-child(2) {
     border: 4px solid #65856E;
 }
 
