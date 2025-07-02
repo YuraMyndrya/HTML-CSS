@@ -1,0 +1,47 @@
+.item {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
+
+.item_1 {
+    background-color: #ff0000;
+}
+
+.item_2 {
+    background-color: #00ff00;
+}
+
+.item_3 {
+    background-color: #004fff;
+}
+
+
+/*--якщо ||||(min-width: 0)||||, то можна не вказувати*/
+@media screen /*and (min-width: 0)*/ and (max-width: 480px) {
+    .item_1 {
+        background-color: #970000;
+    }
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .item_1 {
+        background-color: #970000;
+    }
+    .item_2 {
+        background-color: #1c6a03;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1080px){
+    .item_1 {
+        background-color: #970000;
+    }
+    .item_2 {
+        background-color: #1c6a03;
+    }
+    .item_3 {
+        background-color: #0f215c;
+    }
+}
