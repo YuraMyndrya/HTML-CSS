@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 14px;
+}
+
+header, footer {
+    width: 100%;
+    height: 20vh;
+    background: #D9D9D9;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+}
+
+main {
+    width: 70%;
+    height: 60vh;
+    background: #917A7A;
+}
+aside {
+    width: 30%;
+    height: 60vh;
+    background: #7A9170;
+}
+
+section {
+    display: none;
+}
+
+main, aside , footer {
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+/*--1-й спосіб-------------------------------------------*/
+header p::after {
+    content:"desktop"
+}
+
+
+/*--2-й спосіб-----------------------------------------------*/
+/*
+
+header p:nth-child(2) {
+    display: none;
+}
+
+*/
+
