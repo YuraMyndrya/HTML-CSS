@@ -1,3 +1,109 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-/* font-family: "Inter", sans-serif;*/
+* {
+
+    font-family: "Inter", sans-serif;
+}
+
+
+.wrapper_page_not_found {
+    height: 100vh;
+    background: #161622;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle_left {
+    width: 396px;
+    height: 396px;
+    flex-shrink: 0;
+    border-radius: 396px;
+    border: 48px solid #6F1DF4;
+    opacity: 0.5;
+    position: absolute;
+    top: -200px;
+    left: -210px;
+}
+
+.circle_right {
+    width: 260px;
+    height: 260px;
+    flex-shrink: 0;
+    border-radius: 260px;
+    border: 48px solid #6F1DF4;
+    opacity: 0.5;
+    position: absolute;
+    top: -20px;
+    right: -120px;
+}
+
+.page_not_found {
+    text-align: center;
+}
+
+.page_not_found h1 {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 180px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.5px;
+
+}
+
+.page_not_found h3 {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.25px;
+    margin: -10px 0 24px 0;
+}
+
+.page_not_found p {
+    width: 533px;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.page_not_found div button:nth-child(1) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 212px;
+    height: 64px;
+    padding: 0 48px;
+    gap: 8px;
+    border-radius: 32px;
+    background: #6F1DF4;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.page_not_found div button:nth-child(2) {
+    display: flex;
+    height: 64px;
+    padding: 0 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 32px;
+    background: #FFF;
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.page_not_found div {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 40px;
+}
