@@ -1,0 +1,30 @@
+@media screen and (max-width: 375px) {
+    body {
+        width: 343px;
+        margin: 0 auto;
+    }
+
+    .wrapper {
+        margin: 32px 16px 0 16px;
+    }
+
+    .top {
+        flex-direction: column;
+        gap: 40px;
+        margin-bottom: 40px;
+    }
+
+    .bottom {
+        flex-direction: column;
+        gap: 40px;
+        padding-bottom: 32px;
+    }
+
+
+    .wrapper div {
+        width: 343px;
+        height: 332px;
+    }
+
+
+}
