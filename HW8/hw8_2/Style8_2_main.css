@@ -6,6 +6,7 @@
 
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -16,19 +17,40 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 64px 48px;
+    padding: 64px 48px;
     gap: 32px;
-    border: 1px solid gray;
 }
 
-div {
+.wrapper div {
     width: 271px;
     height: 280px;
-    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0;
 }
 
 img {
     width: 140px;
     height: 140px;
-    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+h3 {
+    flex: 1 0 0;
+    color: #161543;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    margin-bottom: 10px;
+}
+
+p {
+    align-self: stretch;
+    color: #7687A1;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
 }

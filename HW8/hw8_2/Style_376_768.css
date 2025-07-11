@@ -1,0 +1,14 @@
+@media screen and (min-width: 376px) and (max-width: 768px) {
+    .wrapper {
+        width: 768px;
+        height: 652px;
+        flex-wrap: wrap;
+        padding: 48px 24px;
+        gap: 24px;
+    }
+
+    .wrapper div:nth-child(3), .wrapper div:nth-child(4) {
+        margin-top: 16px;
+    }
+}
+
