@@ -1,11 +1,8 @@
-@media screen and (max-width: 480px) {
-    body {
-        width: 343px;
-        margin: 0 auto;
-    }
-
+@media screen and (max-width: 768px) {
     .wrapper {
-        margin: 32px 16px 0 16px;
+        width: 375px;
+        height: 2258px;
+        padding: 32px 16px;
     }
 
     .top {
@@ -17,7 +14,6 @@
     .bottom {
         flex-direction: column;
         gap: 40px;
-        padding-bottom: 32px;
     }
 
 
