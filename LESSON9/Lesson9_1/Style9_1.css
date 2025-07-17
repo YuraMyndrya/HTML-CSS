@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: grid;
+    height: 100vh;
+    background: gray;
+    grid-template-columns:repeat(3, 1fr);
+    grid-template-rows: 1fr 2fr 1fr;
+    gap: 50px;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+    border: 1px solid black;
+}
+
+.wrapper div:nth-child(5) {
+    background: white;
+}
