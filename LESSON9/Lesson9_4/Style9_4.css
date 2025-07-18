@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.grid {
+    text-transform: uppercase;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: 1fr 5fr 1fr;
+    grid-template-areas:
+    "name_of_company name_of_company name_of_company"
+    "left_menu_dishes block_of_main_website right_menu_dessert"
+    "contact_in_footer contact_in_footer contact_in_footer";
+}
+
+h1 {
+    padding: 0 20px;
+    text-align: center;
+}
+
+h2 {
+    padding: 0 20px;
+    text-align: center;
+}
+
+p {
+    padding: 0 20px;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: name_of_company; /*name example*/
+    background: #d1d1d1;
+}
+
+.left_aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: left_menu_dishes; /*name example*/
+    background: #8a1616;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: block_of_main_website; /*name example*/
+    background: #53594a;
+}
+
+.right_aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: right_menu_dessert; /*name example*/
+    background: #197171;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: contact_in_footer; /*name example*/
+    background: #d1d1d1;
+}
