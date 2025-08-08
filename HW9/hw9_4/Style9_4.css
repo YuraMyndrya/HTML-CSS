@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    text-align: center;
+    align-content: center;
+}
+
+.grid_box {
+    color: #FFF;
+    height: 100vh;
+    font-family: Inter, "sans-serif";
+    font-size: 45px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 0.5fr 0.5fr 1fr 1fr;
+    grid-template-columns: 3.66fr 1fr;
+    grid-template-areas:
+    "hdr hdr"
+    "content_1 spam_1"
+    "content_2 spam_1"
+    "content_2 spam_2"
+    "content_3 spam_2"
+    "ftr ftr"
+}
+
+header {
+    color: #000;
+    background: #8D8484;
+    grid-area: hdr;
+}
+
+.grid_box section:nth-child(2) {
+    background: #776969;
+    grid-area: content_1;
+}
+
+.grid_box section:nth-child(3) {
+    background: #643030;
+    grid-area: content_2;
+}
+
+.grid_box section:nth-child(4) {
+    background: #441818;
+    grid-area: content_3;
+}
+
+.grid_box section:nth-child(5) {
+    background: #937575;
+    grid-area: spam_1;
+}
+
+.grid_box section:nth-child(6) {
+    background: #644C4C;
+    grid-area: spam_2;
+}
+
+
+footer {
+    color: #000;
+    background: #BDBDBD;
+    grid-area: ftr;
+}
