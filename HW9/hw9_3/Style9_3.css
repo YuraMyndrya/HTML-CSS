@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.grid_box {
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 1fr 1.93fr 1.93fr 1fr;
+    grid-template-columns: 1fr 1.72fr 1fr;
+    grid-template-areas:
+    "hdr hdr hdr"
+    "lft tp rght"
+    "lft bttm rght"
+    "ftr ftr ftr"
+}
+
+header {
+    background: #D9D9D9;
+    grid-area: hdr;
+}
+
+.left {
+    background: #C0BDBD;
+    grid-area: lft;
+}
+
+.top {
+    background: #827878;
+    grid-area: tp;
+}
+
+.bottom {
+    background: #B7ADAD;
+    grid-area: bttm;
+}
+
+.right {
+    background: #C0BDBD;
+    grid-area: rght;
+}
+
+
+footer {
+    background: #D9D9D9;
+    grid-area: ftr;
+}
+
