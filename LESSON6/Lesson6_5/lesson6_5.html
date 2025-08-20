@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form registration</title>
+    <link rel="stylesheet" href="style6_5.css">
+</head>
+<body>
+
+<form class="form_reg">
+
+    <label for="nameid">введіть своє ім'я</label>
+    <input type="text" id="nameid" name="forbackend" placeholder="enter_name" required><sup>*</sup>
+
+
+    <label for="nameid2">введіть свій email</label>
+    <input type="email" id="nameid2" name="forbackend" placeholder="enter_@.com" required><sup>*</sup>
+
+    <label for="nameid3">введіть свій пароль</label>
+    <input type="password" id="nameid3" name="forbackend" placeholder="enter_password" required><sup>*</sup>
+
+    <label for="age">вкажіть свій вік</label>
+    <input type="number" id="age" name="age" placeholder="age" min="18" max="100">
+
+    <label for="nameid5">вкажіть чи виберіть</label>
+    <input type="date" id="nameid5" name="forbackend" required><sup>*</sup>
+
+    <label for="nameid6">вкажіть чи виберіть</label>
+    <input type="color" id="nameid6" name="forbackend" required><sup>*</sup>
+
+    <label for="nameid7">вкажіть чи виберіть</label>
+    <input type="file" id="nameid7" name="forbackend" required><sup>*</sup>
+
+    <label for="nameid8">вкажіть чи виберіть</label>
+    <input type="button" id="nameid8" name="forbackend" required><sup>*</sup>
+
+    <label>стать</label>
+    <label><input type="radio" name="gender" value="male">чоловіча</label>
+    <label><input type="radio" name="gender" value="female"> жіноча</label>
+
+    <label>
+        <input type="checkbox" name="newsletter"> підписатись на новини
+    </label>
+
+    <label for="Lorem">Краіна</label>
+    <select name="" id="Lorem">
+        <option value="">-----</option>
+        <option value="ua">Украіна</option>
+        <option value="usa">США</option>
+        <option value="ca">Канада</option>
+        <option value="uk">Великобританія</option>
+    </select>
+
+    <label for="phone">Смартфони</label>
+    <select id="phone">
+        <optgroup label="Apple">
+            <option value="8">---</option>
+            <option value="8">iphone 8</option>
+            <option value="X">iphone X</option>
+            <option value="XR">iphone XR</option>
+            <option value="XS">iphone XS</option>
+        </optgroup>
+        <optgroup label="Samsung">
+            <option value="S23mini">samsung S23 mini</option>
+            <option value="S21">samsung S21</option>
+            <option value="S23">samsung S23</option>
+            <option value="S24">samsung S24</option>
+        </optgroup>
+    </select>
+
+    <label for="comment">поле для коментарів</label>
+    <textarea name="hovering_the_cursor" id="comment" cols="20" rows="4"></textarea>
+
+    <div>
+        <input type="submit" value="надіслати">
+        <input type="reset" value="скинути">
+
+    </div>
+
+
+</form>
+
+
+</body>
+</html>

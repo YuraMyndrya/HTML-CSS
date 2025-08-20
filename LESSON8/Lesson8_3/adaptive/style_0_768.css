@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 10px;
+    }
+
+    .wrapper {
+        flex-direction: column;
+    }
+
+    header, footer, section {
+        height: 10vh;
+    }
+
+    aside {
+        height: 30vh;
+    }
+
+    main {
+        height: 40vh;
+    }
+
+    main, aside {
+        width: 100%;
+    }
+
+    section {
+        display: flex;
+        width: 100%;
+        background: #B9EBFE;
+    }
+
+    /*--------- відображати 2 різних контенти на моб версії та десктопній можна 2-ма способами : ---------*/
+    /*--1-й спосіб-------------------------------------------*/
+    header p::after {
+        content: "mobile"
+    }
+
+
+    /*--2-й спосіб-----------------------------------------------*/
+    /*
+
+    header p:nth-child(1) {
+         display: none;
+    }
+
+    */
+    /*
+
+    header p:nth-child(2) {
+         display: flex;
+    }
+
+    */
+}
